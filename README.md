@@ -1,1 +1,1 @@
-# CE888
+This a python file, the user just download the file, next this file will be import in google collab, then uploaded the dataset in google colab, then run this, it can easily run, shows the all output. 
